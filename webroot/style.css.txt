@@ -1,0 +1,15 @@
+body {
+    background-color: #dafde2;
+}
+p {
+    font-family: Verdana, sans-serif;
+}
+p b {
+    color: #02d92f;
+}
+h1 {
+color: green;
+}
+h1 i {
+    color: blue;
+}
